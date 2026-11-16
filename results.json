@@ -1,0 +1,14 @@
+{
+  "players": ["Miguel", "Tiago", "JV", "Salvador", "Ricardo", "Costa", "Afonso"],
+  "matchdays": [
+    {
+      "id": "md1",
+      "date": "2026-11-15",
+      "matches": [
+        {"a":["Miguel","Tiago"],"b":["JV","Salvador"],"sa":2,"sb":6},
+        {"a":["Tiago","Salvador"],"b":["Miguel","JV"],"sa":6,"sb":2},
+        {"a":["Tiago","JV"],"b":["Miguel","Salvador"],"sa":6,"sb":3}
+      ]
+    }
+  ]
+}
